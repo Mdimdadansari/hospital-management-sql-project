@@ -36,7 +36,6 @@ status VARCHAR(30)
 );
 
 
-
 CREATE table billing
 (
 bill_id	VARCHAR(50),
@@ -48,7 +47,6 @@ payment_method	VARCHAR(50),
 payment_status VARCHAR(50)
 
 );
-
 
 
 create table doctors
@@ -63,7 +61,6 @@ hospital_branch VARCHAR(50),
 email VARCHAR(50)
 
 );
-
 
 
 CREATE TABLE patients
